@@ -9,6 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 public class CalendarsTest {
 //  some statement for Jenkins trigger
+
     static int targetDay = 0;
     static int targetMonth = 0;
     static int targetYear = 0;
